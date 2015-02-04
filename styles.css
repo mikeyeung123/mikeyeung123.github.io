@@ -30,6 +30,13 @@ p.navigation {
     padding-bottom: 32px;
 }
 
+p.caption {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    color: #484A47;
+}
+
 a {
     text-decoration: none;
     color: #687D77;
