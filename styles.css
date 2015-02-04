@@ -6,7 +6,7 @@ body {
 h1 {
     font-family: Georgia, serif;
     font-size: 32px;
-    font-weight: 100;
+    font-weight: normal;
     letter-spacing: 16px;
     text-indent: 16px;
     text-align: center;
@@ -33,6 +33,10 @@ p.navigation {
 a {
     text-decoration: none;
     color: #687D77;
+}
+
+a.current {
+    font-weight: bold;
 }
 
 a:visited {
