@@ -1,2 +1,2 @@
-# mikeyeung123.github.io
-Portfolio
+# Mike Yeung
+Resume and Bio
