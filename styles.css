@@ -1,3 +1,43 @@
-p.navigation {
+body {
+    background-color: #ECEBF0;
+    margin: 64px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    font-weight: 100;
+    letter-spacing: 16px;
+    text-indent: 16px;
     text-align: center;
+    color: #484A47;
+    padding-top: 32px;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: #353129;
+}
+
+p.navigation {
+    font-size: 15px;
+    letter-spacing: 8px;
+    word-spacing: 32px;
+    text-indent: 8px;
+    text-align: center;
+    color: #687D77;
+    padding-bottom: 32px;
+}
+
+a {
+    text-decoration: none
+}
+
+a:visited {
+    color: #687D77;
+}
+
+a:hover {
+    color: #C1CE96;
 }
