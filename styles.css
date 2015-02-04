@@ -31,7 +31,8 @@ p.navigation {
 }
 
 a {
-    text-decoration: none
+    text-decoration: none;
+    color: #687D77;
 }
 
 a:visited {
