@@ -38,6 +38,11 @@ p.caption {
     color: #484A47;
 }
 
+img.fit {
+    width: 100%;
+    height: 100%;
+}
+
 a {
     text-decoration: none;
     color: #687D77;
