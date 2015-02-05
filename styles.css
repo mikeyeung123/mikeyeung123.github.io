@@ -1,6 +1,6 @@
 body {
     background-color: #ECEBF0;
-    margin: 64px;
+    margin: 8%;
     font-family: Georgia, serif;
 }
 
@@ -26,7 +26,7 @@ p {
     color: #353129;
 }
 
-p.navigation {
+p#navigation {
     font-size: 15px;
     letter-spacing: 8px;
     word-spacing: 32px;
